@@ -2,11 +2,11 @@
 
 <p>
   <img alt="AI" src="https://img.shields.io/badge/ASP%20%C2%B7%20Bayesian%20nets%20%C2%B7%20Keras-1f2328?style=flat-square">
-  <img alt="Course" src="https://img.shields.io/badge/Course-Artificial%20Intelligence%20(IA)-1f2328?style=flat-square">
+  <img alt="Course" src="https://img.shields.io/badge/Course-Artificial%20Intelligence%20(AI)-1f2328?style=flat-square">
   <img alt="Year" src="https://img.shields.io/badge/2025%2F26-3rd%20year%2C%201st%20semester-1f2328?style=flat-square">
 </p>
 
-Three shorter lab assignments of *Inteligência Artificial* (Artificial Intelligence), Computer Science degree at **NOVA School of Science and Technology (FCT NOVA)**. Each one was delivered as a single file.
+Three shorter lab assignments of *Inteligência Artificial* (Artificial Intelligence, AI), Computer Science degree at **NOVA School of Science and Technology (FCT NOVA)**. Each one was delivered as a single file.
 
 | Folder | Topic | What's in it |
 |---|---|---|
@@ -14,7 +14,7 @@ Three shorter lab assignments of *Inteligência Artificial* (Artificial Intellig
 | [`bayesian-network/`](bayesian-network) | **Bayesian networks** | A Bayesian network built in [Netica](https://www.norsys.com) to model a problem with uncertainty and compute probabilities by inference (`network.neta`, open it in Netica) |
 | [`neural-network/`](neural-network) | **Neural networks** | A Keras/TensorFlow classifier for the *Explainable Abstract Trains* images (20×115 RGB pictures of trains), a dense network 256-128-64-4 with a softmax output. Load it with `tf.keras.models.load_model("trains-classifier.keras")` |
 
-The other topics of the course were search algorithms (with code provided by the course) and [simulated annealing](https://github.com/MCCProgrammer/IA-Simulated-Annealing-TSP).
+The other topics of the course were search algorithms (with code provided by the course) and [simulated annealing](https://github.com/MCCProgrammer/AI-Simulated-Annealing-TSP).
 
 ## Authors
 
